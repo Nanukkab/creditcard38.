@@ -1,0 +1,105 @@
+*{
+    box-sizing: border-box;
+}
+
+
+body{
+    background-color: grey;
+}
+
+.card{
+    Width: 642px;
+    Height: 383px;
+    background-color: rgba(8, 12, 23, 1);
+    box-shadow: 8px 10px 16px 0px;
+    border-radius: 12px;
+    margin: auto;
+    margin-top: 180px;
+}
+
+.header{
+    display: flex;
+}
+
+.title{
+    width: 225px;
+    height: 39px;
+    margin-top: 50px;
+    margin-left: 45px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+
+}
+
+.img1{
+    width: 198px;
+    height: 28px;
+}
+
+.img2{
+    width: 2.04px;
+    height: 39.52px;
+}
+
+.img3{
+    width: 183px;
+    height: 19px;
+}
+
+.stroke{
+    width: 43px;
+    height: 52px;
+    margin-top: 22px;
+    margin-left: 140px;
+}
+
+.chip1{
+    display: flex;
+}
+.chip{
+    width: 85px;
+    height: 61px;
+    margin-top: 30px;
+    margin-left: 42px;
+    
+
+}
+
+.world{
+    width: 56px;
+    height: 16px;
+    margin-top: 80px;
+    margin-left: 380px;
+}
+
+
+.cardnumber{
+    width: 494px;
+    height: 24px;
+    margin-top: 25px;
+    margin-left: 73px;
+
+}
+
+.date{
+    width: 109px;
+    height: 20px;
+    margin-top: 25px;
+    margin-left: 340px;
+
+}
+
+.cardholder{
+    Width: 371.24px;
+    Height:17.05px;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+
+.mastercard{
+    Width: 128.4px;
+    Height: 76.35px;
+    margin-left: 240px;
+    margin-top: -30px;
+}
